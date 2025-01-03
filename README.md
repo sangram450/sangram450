@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sangram450
+- 👋 Hi, I’m sangram
 - 👀 I’m interested in web security
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
